@@ -2,6 +2,19 @@
 
 React front end for cleaner application
 
+## Requirements
+
+You need to have node installed on your computer with version at least > 10.11.0. You will also require an up to date
+version of npm.
+
+## Setup
+
+Once you have cloned the project from get you can run
+
+    npm install
+
+Once all your packages are installed you should be able to run and test the project as described below.
+
 ## Available Scripts
 
 In the project directory, you can run:
